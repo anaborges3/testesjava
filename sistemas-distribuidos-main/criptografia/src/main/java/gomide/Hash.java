@@ -3,6 +3,8 @@ package gomide;
 import java.security.MessageDigest;
 import java.util.Formatter;
 
+//teste
+
 public class Hash {
   public static String executarSha1(byte[] textoPlano) {
     try {
